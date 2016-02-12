@@ -1,0 +1,49 @@
+img{
+    width: 300px;
+}
+
+.photo-box{
+   background-color: silver;
+   float: left;
+   width: 350px;
+}
+
+
+#class-photo{
+    clear: left;
+    float: right;
+}
+
+#nav{
+    background-color: lightblue;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.nav-item{
+    float: left;
+    width: 16%;
+    text-align: center;
+}
+
+#sidebar{
+    clear: both;
+    float: right;
+}
+
+#footer{
+  clear: both;
+  background-color: lightblue;
+  overflow: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 15px; 
+}
+
+.footer-item{
+  float: left;
+  text-align: center;
+  width: 25%;
+}
